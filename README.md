@@ -42,7 +42,7 @@ Leave comments on blog posts with a link to your directory
 
 Submit your Web directory to other Web directories
 
-Submit your Web directory to the free, paid, trusted, and niche directory list on <a href="https://webdirectories.info">WebDirectories.info</a>. Their free directory list is free to submit to for free Web directories. Their paid, trusted, and niche directory list costs a one-time fee of $179
+Submit your Web directory to the free, paid, trusted, and niche directory list on <a href="https://webdirectories.info">WebDirectories.info</a>. Their free directory list is free to submit to for free Web directories. Their paid, trusted, and niche directory lists each cost a one-time fee of $179
 
 When creating your Web directory keep in mind a very important concept. Ask yourself, what makes your Web directory that you are envisioning a useful resource for Internet users. In the case of a free directory, you are already attractive because you are offering a free submission option that is of use to all business Web sites. However, in the case of a paid directory you are going to need to find a way to attract Internet surfers that are coming back to the directory because they are finding utility in your directory. One way to do this is to offer high quality content on your directory. This will keep visitors returning for more and will send a signal to Google that your Web site is worthy of ranking, and will help send your Web site viral.
 
