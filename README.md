@@ -1,8 +1,8 @@
 <html>
-<head>
+<body>
 
 <link rel="canonical" href="https://medium.com/@webdirectories.info/how-to-market-a-general-web-directory-in-the-year-2024-an-article-offering-information-on-how-to-eaf129343841" />
-</head>  
+
 <b>About this article:</b>   
 
 An article offering information on how to market a general Web directory in year 2024.
@@ -92,4 +92,4 @@ Internally:
 - They offer the ability for users to leave star reviews for all links listed in their directory.
 
 3. They offer a permanent link submission option (the cost for this is $159.95 per link)
-</html>   
+</body>
