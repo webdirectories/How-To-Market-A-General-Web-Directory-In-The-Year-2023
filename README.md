@@ -1,7 +1,4 @@
 <div>
-
-<link rel="canonical" href="https://medium.com/@webdirectories.info/how-to-market-a-general-web-directory-in-the-year-2024-an-article-offering-information-on-how-to-eaf129343841">
-
 <b>About this article:</b>   
 
 An article offering information on how to market a general Web directory in year 2024.
@@ -17,7 +14,7 @@ An article offering information on how to market a general Web directory in year
 
 Marketing a Web directory requires a mix of both white hat and black hat SEO techniques. White hat SEO is when you are improving your Website’s rank in the search engines while maintaining the integrity of your Web site and staying within in Google’s terms of service. Black hat SEO is when you break the rules by using too many keyword rich terms to help your Web site rank. The trick with this is to use mostly white hat techniques and a slight amount of black hat techniques.
 
-On-page SEO:
+<b>On-page SEO:</b>
 
 On-page SEO refers to the art of making your Web site readable by the Google bots.
 
@@ -39,7 +36,7 @@ Inter-linking is when you link various posts on your site to other posts. Partic
 
 6) Link out to at least one other Web site. This can be a Wikipedia page containing the keywords that relevant to your directory. The reason for this is that linking to other sites makes your site look natural in the eyes of the bots.
 
-Off-page SEO
+<b>Off-page SEO</b>
 
 Off-page SEO refers to ranking your Web site by the building of backlinks and creating a social media presence which can send your Web site traffic.
 
@@ -73,7 +70,7 @@ Before purchasing a product or service of some sort users will want to see some 
 
 DirJournal.com is a great example of a directory that passes an abundance of link juice to Web sites listed in it. They go above and beyond in what a general Web directory can offer and for this reason they are successful in this day and age.
 
-Reasons why DirJournal.com is a great directory to be included in:
+<b>Reasons why DirJournal.com is a great directory to be included in:</b>
 
 1. They have been around since 2007
 
