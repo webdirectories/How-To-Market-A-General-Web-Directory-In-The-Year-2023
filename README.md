@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>How-To-Market-A-General-Web-Directory-In-The-Year-2024</title>
+
 <link rel="canonical" href="https://medium.com/@webdirectories.info/how-to-market-a-general-web-directory-in-the-year-2024-an-article-offering-information-on-how-to-eaf129343841" />
 </head>  
-About this article:
+<b>About this article:</b>   
 
 An article offering information on how to market a general Web directory in year 2024.
 
