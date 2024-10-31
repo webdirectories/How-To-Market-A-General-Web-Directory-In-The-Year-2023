@@ -9,7 +9,7 @@ An article offering information on how to market a general Web directory in year
 
 · Marketing a directory requires a vision for how you will attract traffic.
 
-<img src="https://github.com/webdirectories/How-To-Market-A-General-Web-Directory-In-The-Year-2024/blob/main/How%20To%20Gain%20An%20Edge%20With%20Web%20Directories.jpg" alt="Web Directories - How To Gain An Edge With Web Directories" />  
+<img src="https://github.com/webdirectories/How-To-Market-A-General-Web-Directory-In-The-Year-2024/blob/main/How%20To%20Gain%20An%20Edge%20With%20Web%20Directories.jpg"; alt="How To Gain An Edge With Web Directories">  
 
 
 <b>How to market a general Web directory in the year 2024</b>
