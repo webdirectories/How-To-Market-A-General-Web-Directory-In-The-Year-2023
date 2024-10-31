@@ -9,9 +9,7 @@ An article offering information on how to market a general Web directory in year
 
 · Marketing a directory requires a vision for how you will attract traffic.
 
-<img src="https://github.com/webdirectories/How-To-Market-A-General-Web-Directory-In-The-Year-2024/blob/main/How%20To%20Gain%20An%20Edge%20With%20Web%20Directories.jpg" alt="How To Gain An Edge With Web Directories">
-![alt text](https://github.com/webdirectories/How-To-Market-A-General-Web-Directory-In-The-Year-2024/blob/main/How%20To%20Gain%20An%20Edge%20With%20Web%20Directories.jpg "How To Gain An Edge With Web Directories")
-
+<img src="https://github.com/webdirectories/How-To-Market-A-General-Web-Directory-In-The-Year-2024/blob/main/How%20To%20Gain%20An%20Edge%20With%20Web%20Directories.jpg" />  
 <b>How to market a general Web directory in the year 2024</b>
 
 Marketing a Web directory requires a mix of both white hat and black hat SEO techniques. White hat SEO is when you are improving your Website’s rank in the search engines while maintaining the integrity of your Web site and staying within in Google’s terms of service. Black hat SEO is when you break the rules by using too many keyword rich terms to help your Web site rank. The trick with this is to use mostly white hat techniques and a slight amount of black hat techniques.
