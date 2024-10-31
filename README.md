@@ -14,7 +14,7 @@ An article offering information on how to market a general Web directory in year
 · Marketing a directory requires a vision for how you will attract traffic.
 
 
-How to market a general Web directory in the year 2024
+<b>How to market a general Web directory in the year 2024</b>
 
 Marketing a Web directory requires a mix of both white hat and black hat SEO techniques. White hat SEO is when you are improving your Website’s rank in the search engines while maintaining the integrity of your Web site and staying within in Google’s terms of service. Black hat SEO is when you break the rules by using too many keyword rich terms to help your Web site rank. The trick with this is to use mostly white hat techniques and a slight amount of black hat techniques.
 
