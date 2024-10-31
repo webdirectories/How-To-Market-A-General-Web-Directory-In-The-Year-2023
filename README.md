@@ -80,7 +80,6 @@ Reasons why DirJournal.com is a great directory to be included in:
 
 2. They promoted their directory heavily both externally and internally.
 
-   </html>
 
 Externally:
 
@@ -93,3 +92,4 @@ Internally:
 - They offer the ability for users to leave star reviews for all links listed in their directory.
 
 3. They offer a permanent link submission option (the cost for this is $159.95 per link)
+</html>   
