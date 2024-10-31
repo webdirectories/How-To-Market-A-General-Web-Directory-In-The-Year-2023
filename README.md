@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<link rel="canonical" href="https://medium.com/@webdirectories.info/how-to-market-a-general-web-directory-in-the-year-2024-an-article-offering-information-on-how-to-eaf129343841" />
+<link rel="canonical" href="https://medium.com/@webdirectories.info/how-to-market-a-general-web-directory-in-the-year-2024-an-article-offering-information-on-how-to-eaf129343841">
 
 <b>About this article:</b>   
 
