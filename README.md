@@ -68,7 +68,7 @@ Web directories convince users that your business is trustworthy:
 
 Before purchasing a product or service of some sort users will want to see some establishment of trust. By being listed in Web directories that are high quality users will see signs of being able to be trusted. Also, some Web directories offer feedback and star ratings for Web sites that are listed in it. This feedback and star rating will ensure users will trust a business provided users are offering positive feedback and ratings.
 
-DirJournal.com is a great example of a directory that passes an abundance of link juice to Web sites listed in it. They go above and beyond in what a general Web directory can offer and for this reason they are successful in this day and age.
+<a href="https://www.dirjournal.com>DirJournal.com</a> is a great example of a directory that passes an abundance of link juice to Web sites listed in it. They go above and beyond in what a general Web directory can offer and for this reason they are successful in this day and age.
 
 <b>Reasons why DirJournal.com is a great directory to be included in:</b>
 
