@@ -1,3 +1,4 @@
+<html>
 <head>
 <title>How-To-Market-A-General-Web-Directory-In-The-Year-2024</title>
 <link rel="canonical" href="https://medium.com/@webdirectories.info/how-to-market-a-general-web-directory-in-the-year-2024-an-article-offering-information-on-how-to-eaf129343841" />
@@ -78,6 +79,8 @@ Reasons why DirJournal.com is a great directory to be included in:
 1. They have been around since 2007
 
 2. They promoted their directory heavily both externally and internally.
+
+   </html>
 
 Externally:
 
