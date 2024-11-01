@@ -36,7 +36,7 @@ Inter-linking is when you link various posts on your site to other posts. Partic
 
 6) Link out to at least one other Web site. This can be a Wikipedia page containing the keywords that relevant to your directory. The reason for this is that linking to other sites makes your site look natural in the eyes of the bots.
 
-<b>Off-page SEO</b>
+<b>Off-page SEO:</b>
 
 Off-page SEO refers to ranking your Web site by the building of backlinks and creating a social media presence which can send your Web site traffic.
 
